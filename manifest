@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+  <title>ClickOnCare</title>
+  <link rel="stylesheet" type="text/css" href="styles.css" media="screen" />
+  <script async src="site.js"></script>
+  <meta name="viewport" content="width=device-width, user-scalable=no" />
+  <link rel="manifest" href="manifest.json" />
+</head>
+<body>
+
+<header>
+
+  
+  <ul>
+    <li><a href="index2.html">Home</a></li>
+  </ul>
+
+</header>
+
+<hr />
+</body>
+</html>
